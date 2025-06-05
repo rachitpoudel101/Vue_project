@@ -28,6 +28,6 @@ coverage
 *.sw?
 
 *.tsbuildinfo
-/package-lock.json
-/package.json
-/jsconfig.json
+package-lock.json
+package.json
+jsconfig.json
