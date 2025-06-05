@@ -1,1 +1,5 @@
 /env
+./login-frontend/node_modules
+./login-frontend/jsconfig.json
+./login-frontend/package-lock.json 
+./login-frontend/package.json
